@@ -28,6 +28,7 @@ A Scrum-based productivity management platform designed for remote software deve
 - Wireframes
 - UI Design
 - Test Cases
+- Git workflow: [project-simulator-404-brain-not-found](https://github.com/Mahjabin21/project-simulator-404-brain-not-found)
 
 ## Team Members
 - Maisha Mahjabin
